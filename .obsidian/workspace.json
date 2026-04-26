@@ -6,6 +6,7 @@
       {
         "id": "ca5eaca77a0e223a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "f141ab1a4c396c99",
@@ -55,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "关于方向.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "关于方向"
             }
           }
         ],
@@ -69,17 +70,20 @@
       {
         "id": "c12c47ea0df3f272",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "297886de3aa9a315",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "electronics-14-04449-v3.pdf"
+                "file": "关于方向.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "electronics-14-04449-v3"
+              "icon": "lucide-file",
+              "title": "关于方向"
             }
           }
         ]
@@ -217,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "关于方向.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "关于方向 的大纲"
             }
           },
           {
@@ -267,10 +271,10 @@
   },
   "active": "ea1480a47a1c5163",
   "lastOpenFiles": [
-    "Modern Approaches to Software Vulnerability Detection A Survey of Machine Learning, Deep Learning, and Large Language Models.md",
-    "未命名.md",
-    "漏洞检测方法.md",
     "electronics-14-04449-v3.pdf",
+    "关于方向.md",
+    "Modern Approaches to Software Vulnerability Detection A Survey of Machine Learning, Deep Learning, and Large Language Models.md",
+    "漏洞检测方法.md",
     "欢迎.md",
     "Git.md",
     "XSS（示例）.md",
